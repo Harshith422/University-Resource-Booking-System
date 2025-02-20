@@ -20,8 +20,7 @@ The system consists of:
 ## 📜 Project Structure  
 ```
 /university-resource-booking
-│── src/
-│   ├── main/
+│   ├── CODE/
 │   │   ├── Login.java             # User login module
 │   │   ├── Register.java          # User registration module
 │   │   ├── Booking.java           # Booking system logic
@@ -31,7 +30,6 @@ The system consists of:
 │── database/
 │   ├── schema.sql                 # Database schema for resource booking
 │── README.md                      # Project Documentation
-│── requirements.txt                # Dependencies (if any)
 ```
 
 ## 🛠️ Installation & Setup  
